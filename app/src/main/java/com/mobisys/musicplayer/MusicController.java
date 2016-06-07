@@ -8,7 +8,7 @@ import android.util.AttributeSet;
  * Created by Govinda P on 6/4/2016.
  */
 
-public class MusicController extends android.widget.MediaController{
+public class MusicController extends  android.widget.MediaController{
 
     public MusicController(Context context, AttributeSet attrs) {
         super(context, attrs);
